@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "big-integer": "^1.6.19",
     "lodash": "^4.17.4"
   }
 }
